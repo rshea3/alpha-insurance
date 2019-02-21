@@ -3,9 +3,7 @@
 You have been hired by Alpha Insurance to develop predictive models to determine which automobile claims are fraudulent. You have been given data on approximately 5000 auto claims which includes a variable indicating whether the company believes the claim is fraudulent or not.
 
 
-## Authors: 
-* Chris Defreitas
-* Jeff Moise
+## Author: 
 * Robert Shea
   
  Bryant University ~ Fall 2018
